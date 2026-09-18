@@ -1,93 +1,80 @@
+<div align="center">
+
+# DINESH MONGIYA S
+
+### B.Tech Information Technology Student · Full-Stack Developer · Positive Thinker
+
+<p>
+  <a href="https://www.linkedin.com/in/dineshmongiya-saravanan-a58a83271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/dineshmongiya/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/_dinexs_7/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dineshmongiya600@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dinesh+Mongiya+S+%F0%9F%91%8B;Building+web+solutions+with+Python+and+Django;Turning+ideas+into+useful+projects+%E2%9A%A1" alt="Typing introduction" />
+
+</div>
+
+## About Me
+
+I am a **B.Tech Information Technology student** at **K S Rangasamy College of Technology**, based in **Erode, India**. I enjoy learning new technologies, building practical applications, and solving problems through clean and effective code.
+
+- 🎓 B.Tech in Information Technology, 2025
+- 💡 Positive thinker who enjoys continuous learning
+- 🌱 Currently strengthening my full-stack development and database skills
+- 🤝 Open to learning, collaboration, and meaningful projects
+
+## Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend, Databases & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Featured Projects
+
+### 🚗 Online Smart Parking System
+
+A web-based project focused on making parking management more convenient and efficient.
+
+### 🎬 Online Movie Booking System
+
+A web application concept for browsing movies and managing online ticket bookings.
+
+## Coding Practice
+
+I regularly practice data structures, algorithms, and problem-solving on LeetCode.
+
 <p align="center">
-  <a href="https://github.com/DineshMongiya/Dinesh-Mongiya-S">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Dinesh+Mongiya;Information+Technology+student;Python+and+C+developer;Positive+thinker+and+continuous+learner" width="100%" style="max-width: 620px;" alt="Typing introduction" />
+  <a href="https://leetcode.com/u/dineshmongiya/">
+    <img src="https://leetcard.jacoblin.cool/dineshmongiya?theme=dark&font=Karma&border=0&radius=12" width="480" alt="Dinesh Mongiya's LeetCode statistics" />
   </a>
 </p>
 
+## Let's Connect
+
 <p align="center">
-  <a href="https://github.com/DineshMongiya/Dinesh-Mongiya-S" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub repository" />
-  </a>
-  <a href="mailto:dineshmongiya600@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/dineshmongiya-saravanan-a58a83271/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/dineshmongiya/">LeetCode</a> ·
+  <a href="https://www.instagram.com/_dinexs_7/">Instagram</a> ·
+  <a href="mailto:dineshmongiya600@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DineshMongiya&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile views" />
-</p>
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Positive+thinker.+Always+learning.+Always+building." width="100%" style="max-width: 600px;" alt="About me animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
-
-<p align="center">
-  Hey! I'm <b>Dinesh Mongiya</b>, an <b>Information Technology student</b> pursuing a <b>B.Tech degree</b> at <b>K S Rangasamy College of Technology</b>. I am based in <b>Erode</b> and describe myself as a positive thinker.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/College-K%20S%20Rangasamy%20College%20of%20Technology-111111?style=flat-square" alt="College" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech-DC2626?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Department-Information%20Technology-111111?style=flat-square" alt="Department" />
-  <img src="https://img.shields.io/badge/Year-2025-DC2626?style=flat-square" alt="Year" />
-</p>
-
-<h2 align="center">Projects</h2>
-
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Online Smart Parking System</h4>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>Online Movie Booking System</h4>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">Tech Stack &amp; Skills</h2>
-
-<p align="center"><b>Programming Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c&theme=dark" width="100%" style="max-width: 180px;" alt="Python and C" /></a>
-</p>
-
-<p align="center"><b>Frontend Skills</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="100%" style="max-width: 240px;" alt="HTML, CSS, and JavaScript" /></a>
-</p>
-
-<p align="center"><b>Backend, Database, Tools &amp; Technologies</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,mongodb,mysql,git,github,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Django, MongoDB, SQL, Git, GitHub, and AWS" /></a>
-</p>
-
-<h2 align="center">GitHub Analytics &amp; Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/?username=DineshMongiya&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DineshMongiya&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshMongiya&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub streak" />
-</p>
-<h2 align="center">Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-</p>
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:dineshmongiya600@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Email" /><br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
 </p>
